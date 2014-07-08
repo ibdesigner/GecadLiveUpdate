@@ -1,6 +1,6 @@
 <?php
 
-namespace IBDesigner\GecadLiveUpdate\Facades;
+namespace IBDesigner\GecadLiveUpdate\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
