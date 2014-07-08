@@ -3,6 +3,6 @@
     "autoload": {
         "psr-0": {
             "IBDesigner\\GecadLiveUpdate": "src"
-            }
+            } 
     }
 }
