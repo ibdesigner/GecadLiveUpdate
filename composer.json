@@ -2,7 +2,7 @@
     "name": "ibdesigner/gecadliveupdate",
     "autoload": {
         "psr-0": {
-            "IBDesigner\\GecadLivepdate": "src"
+            "IBDesigner\\GecadLiveUpdate": "src"
             }
     }
 }
